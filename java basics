@@ -1,1 +1,38 @@
-java basics and small projects
+concepts
+
+🧱 01 – BASICS
+
+Topics:
+
+Data types
+
+Variables
+
+Input/Output
+
+Operators
+
+If-else
+
+Switch
+
+Loops
+
+Methods
+
+Command line args
+
+Programs:
+
+Calculator
+
+Number guessing game
+
+Prime checker
+
+Fibonacci series
+
+Pattern printing
+
+Mini task:
+👉 StudentMarksCalculator.java
